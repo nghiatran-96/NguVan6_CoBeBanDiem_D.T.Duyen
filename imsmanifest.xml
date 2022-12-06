@@ -1,0 +1,79 @@
+﻿<?xml version = "1.0" standalone = "no"?>
+<manifest identifier = "12_264201837478" version = "1"
+    xmlns = "http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+    xmlns:adlcp = "http://www.adlnet.org/xsd/adlcp_rootv1p2"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation = "http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+        http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd
+        http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+    <metadata>
+        <schema>ADL SCORM</schema>
+        <schemaversion>1.2</schemaversion>
+        <adlcp:location>metadata.xml</adlcp:location>
+    </metadata>
+    <organizations default="B0">
+        <organization identifier="B0">
+            <title>NguVan6_2021-2022</title>
+            <item identifier="EXAMPLE-SCO" identifierref="SCO-RESOURCE">
+                <title>NguVan6_2021-2022_SCO</title>            </item>
+        </organization>
+    </organizations>
+    <resources>
+        <resource identifier="SCO-RESOURCE" adlcp:scormType="sco" type="webcontent" href="index.html">
+                        <file href="index.html" />
+                        <file href="\adlcp_rootv1p2.xsd" />
+                        <file href="\av-main.js" />
+                        <file href="\classList.min.js" />
+                        <file href="\HTML5_index.html" />
+                        <file href="\imscp_rootv1p1p2.xsd" />
+                        <file href="\imsmanifest.xml" />
+                        <file href="\imsmd_rootv1p2p1.xsd" />
+                        <file href="\ims_xml.xsd" />
+                        <file href="\index.html" />
+                        <file href="\index.stg" />
+                        <file href="\metadata.xml" />
+                        <file href="\result.html" />
+                        <file href="\result.js" />
+                        <file href="\ScormEnginePackageProperties.xsd" />
+                        <file href="\SCORM_APIWrapper.js" />
+                        <file href="\css\av-main.css" />
+                        <file href="\css\avinaBaner.jpg" />
+                        <file href="\css\correct-icon.png" />
+                        <file href="\css\fonts.css" />
+                        <file href="\css\icon-avn.ico" />
+                        <file href="\css\icon.png" />
+                        <file href="\css\jquery-ui.css" />
+                        <file href="\css\review-icon.png" />
+                        <file href="\css\style.css" />
+                        <file href="\css\style.stg" />
+                        <file href="\data\data.js" />
+                        <file href="\fonts\FontAwesome.otf" />
+                        <file href="\fonts\STIXIntegralsUpD-Bold.otf" />
+                        <file href="\fonts\STIXSizeOneSym-Regular.otf" />
+                        <file href="\fonts\trebuc.ttf" />
+                        <file href="\fonts\wingdings-1361509078.ttf" />
+                        <file href="\resources\audio\0ad4b911f808d1eeb82f04f803308c17.mp3" />
+                        <file href="\resources\audio\60bdda6f1c218a840bb7bebe7c8394b7.mp3" />
+                        <file href="\resources\audio\82811d635444a640cff78031ba72b5b5.mp3" />
+                        <file href="\resources\audio\add88689748f11396d253dcc501e7898.mp3" />
+                        <file href="\resources\audio\ddb4ec92bd2f2f63e600945199981d02.mp3" />
+                        <file href="\resources\audio\feadd2cd25bc4a0e87ae974e5343814d.mp3" />
+                        <file href="\resources\images\53eede5284e231b2bbb957ca1915e4fe.png" />
+                        <file href="\resources\images\8012a1d64188597e408992b09981b75b.png" />
+                        <file href="\resources\images\b8HnbqO1TFz_thumbnail.png" />
+                        <file href="\resources\images\Bn4hx9eZmJ2_thumbnail.png" />
+                        <file href="\resources\images\BUItHKIw7Dz_thumbnail.png" />
+                        <file href="\resources\images\c2db36946b6327adfc7402e4368773f1.png" />
+                        <file href="\resources\images\o5cXuzMGpLc_thumbnail.png" />
+                        <file href="\resources\images\O7hn5YjPShW_thumbnail.png" />
+                        <file href="\resources\images\PdaFi2ijTpB_thumbnail.png" />
+                        <file href="\resources\images\PresentationThumbnail.png" />
+                        <file href="\resources\images\QAGHW8TOEaa_thumbnail.png" />
+                        <file href="\resources\images\quiz.jpg" />
+                        <file href="\resources\images\vOM56YutQZQ_thumbnail.png" />
+                        <file href="\resources\images\znzM7egL1VH_thumbnail.png" />
+                        <file href="\resources\video\d3efb7e5ae1a7681b516fa002ab7bf29.mp4" />
+
+        </resource>
+    </resources>
+</manifest>
